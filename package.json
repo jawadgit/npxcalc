@@ -8,7 +8,9 @@
   "author": "Jawad Nisar",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "@types/readline-sync": "^1.4.4",
+    "express": "^4.18.2",
+    "readline-sync": "^1.4.10"
   },
   "keywords": [
     "jawadcalc",
