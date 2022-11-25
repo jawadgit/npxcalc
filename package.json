@@ -1,6 +1,6 @@
 {
   "name": "jawadcalc",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "npx commands",
   "bin": {
     "jawadcalc": "bin/index.js"
@@ -9,5 +9,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "keywords": [
+    "jawadcalc",
+    "app"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jawadgit/npxcalc"
   }
 }
