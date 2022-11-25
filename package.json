@@ -1,0 +1,16 @@
+{
+  "name": "npxcommands",
+  "version": "1.0.0",
+  "description": "npx commands",
+  "main": "index.js",
+  "scripts": {
+    "bin": {
+      "myapp": "src/index.js"
+    }
+  },
+  "author": "Jawad Nisar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
