@@ -1,12 +1,9 @@
 {
-  "name": "npxcommands",
-  "version": "1.0.0",
+  "name": "jawadcalc",
+  "version": "1.0.2",
   "description": "npx commands",
-  "main": "index.js",
-  "scripts": {
-    "bin": {
-      "myapp": "src/index.js"
-    }
+  "bin": {
+    "jawadcalc": "bin/index.js"
   },
   "author": "Jawad Nisar",
   "license": "ISC",
